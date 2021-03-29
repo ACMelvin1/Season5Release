@@ -50,14 +50,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QuizSeason5.exe" size="122848">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QuizSeason5.exe" size="130016">
       <assemblyIdentity name="QuizSeason5" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pAHK7RdG+cSLBokle+HYiR947TT3XLNXZOIWBDHYscw=</dsig:DigestValue>
+        <dsig:DigestValue>GWcDtIxJi8+iu7e2YlPeu8o3gySTWFpppa9c8j1IW+k=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
